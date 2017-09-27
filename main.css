@@ -1,0 +1,30 @@
+<style type="text/css">
+
+
+/* general setting for all the tags in all of my recipe world pages*/
+html,body,h1,h2,h3,ul,ol,li,p,a
+{
+	padding:0;
+	border:0;
+	margin:0;
+}
+body
+{
+	background-color:powderblue;
+	padding:0px;
+	postion:top left;
+	background-repeat:repeat;
+	margin:0px auto;
+	font-family:Georgia,"times new roman";
+	font-size:100%;
+	font:inherit;
+}
+
+a
+{
+	text-decoration:none;
+	font-size:20px;
+}
+
+
+</style>
